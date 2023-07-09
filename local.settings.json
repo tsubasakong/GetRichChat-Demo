@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "OPENAI_API_KEY": "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",
+    "PINECONE_API_KEY": "cb5d9140-8325-422e-a68c-8fd98184f99b",
+    "PINECONE_API_ENV": "asia-southeast1-gcp"
+
+  }
+}
